@@ -1,1 +1,4 @@
 food.txt
+Chips
+Burger
+Chicken
